@@ -6,7 +6,6 @@ import UserComponent from "@/components/user/UserComponent";
 interface IProps {
     searchParams?: {
         data?: string,
-        id?: string
     };
 }
 
